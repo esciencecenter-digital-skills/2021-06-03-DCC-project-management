@@ -14,22 +14,21 @@
   - Raise your hand in the zoom breakout;
   - A helper will join your breakout room.
 
+### Preparation
+See how you can prepare for this workshop [here](preparation.md).
 
 ### Materials
 Download them [here](data/datafiles.zip).
 
-### PRESENT
+### [PRESENT: project management](lessons/project_management.md)
 In this segment, you will start your project. From a few data files, you will create an organized project.
-[PRESENT: project management](lessons/project_management.md)
 
-### PAST
+### [PAST: project history](lessons/project_history.md)
 In this segment, you will review the history of your project, make a changelog, and create a 'project release' with a version number.
-[PAST: project history](lessons/project_history.md)
 
-
-### FUTURE
+### [FUTURE: project archive](lessons/project_archive.md)
 In this segment, you will archive and license your project so others can use it.
-[FUTURE: project archive](lessons/project_archive.md)
+
 
 <!--
 Testing video embedding:
