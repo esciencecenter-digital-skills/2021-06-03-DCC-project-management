@@ -1,0 +1,44 @@
+Project management
+
+Start with your project in a single folder. Everything that relates to your
+project will be inside this folder. This will make your project portable and
+cohesive.
+
+
+Select a logical system of sub folders, looking at what is standard in the
+field. There is no one-size-fits-all, but this can be a good structure for a
+research project. Having folders separate for data for documentation and four
+figures. Make sure you structure your sub folders in a logical way. Don’t be
+afraid to make sub sub and sub sub sub folders, so long it is as it is logical.
+Especially when you were working with code or tools that generate content
+automatically, it is important to separate the content from content that you
+yourself are writing. It is also important to separate read only content from
+the rest. Raw data should never be meddled with.
+
+The base of your folder system, the main folder at the highest level of your
+project, is called the “root”. This is an important reference point of your
+project: it contains the main files that are required to understand the project,
+as well as the main sub folders.
+
+Especially on higher levels, it’s recommended that each folder contains a README
+file, that describes the content of that folder. There are certain things you
+can put in that README file. A good thing to start Waze with is always to ask
+yourself what if in one year time you see this folder again what information do
+you need to understand it fully. With almost everything we are going to show
+you, you yourself are the most likely want to benefit from a good project
+structure, and good documentation. Keep this in mind. Some more tips for content
+in the read me is, explanation of any abbreviations used, dates, expected files,
+any references that are necessary.
+
+File names themselves can be important documentation. We have a long past the
+time that file names needs to be short, although it is although there is
+obviously a limit. File names will be important when you want to sort your
+files. Therefore, making sure that file names start with The most general
+descriptor of the file content, can be relevant. It is furthermore advised never
+to use spaces or start your file name with a number, as this can interfere with
+your files being processed by certain programs. When you are including a date in
+your file, and you probably should, start with the year then the month and then
+the day. This will make sure that when sorting your files you will sort them
+from early to late. It also prevents any confusion with date notation in
+different parts of the world.
+
