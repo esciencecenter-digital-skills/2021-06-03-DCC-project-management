@@ -16,7 +16,7 @@
 
 
 ### Materials
-Download them [here](data/datafiles.zip).
+Download them [here](raw/main/data/datafiles.zip).
 
 ### PRESENT
 In this segment, you will start your project. From a few data files, you will create an organized project.
