@@ -97,4 +97,4 @@ figure with the data you have cleaned up during the first session.
 
 When you are done: zip the entire project (you do not need to include the old
 versions at this point), and email it to your partner. They will continue as the
-driver during [FUTURE](lessons/future.md).
+driver during [FUTURE](future.md).
