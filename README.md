@@ -2,6 +2,17 @@
 
 ## Spring Training Days day 2
 
+In this Spring Training workshop, we will take you through the life phases of a project,
+teaching good habits along the way, and using tools you already know.
+We will start at the **PRESENT**, where you will start your project.
+From a few data files (adapted from [Hope _et al._, 2021](https://zenodo.org/record/4452678),
+[more here](data/README.md)), you will create an organized project.
+Then, we will track the project's history in **PAST**: you will make a changelog,
+and create a 'project release' with a version number. Finally, in **FUTURE**,
+you will archive and license your project so others can use it.
+
+### Preparation
+See how you can prepare for this workshop [here](preparation.md).
 
 ### Workflow
 - Work in pairs ('pair programming' style)
@@ -14,20 +25,17 @@
   - Raise your hand in the zoom breakout;
   - A helper will join your breakout room.
 
-### Preparation
-See how you can prepare for this workshop [here](preparation.md).
+### Schedule
+| Time  | Agenda item | Link |
+|:------|:------------|:----|
+| 13:00 | Kickoff & introductions | |
+| 13:15 | PRESENT: organize your project | [lessons/present.md](lessons/present.md) |
+| 14:00 | Tea break | |
+| 14:15 | PAST: version control | [lessons/past.md](lessons/past.md) |
+| 15:00 | Tea break | |
+| 15:15 | FUTURE: publication & archiving | [lessons/future.md](lessons/future.md) |
+| 16:00 | wrap up | |
 
-### Materials
-Download them [here](data/datafiles.zip).
-
-### [PRESENT: project management](lessons/project_management.md)
-In this segment, you will start your project. From a few data files, you will create an organized project.
-
-### [PAST: project history](lessons/project_history.md)
-In this segment, you will review the history of your project, make a changelog, and create a 'project release' with a version number.
-
-### [FUTURE: project archive](lessons/project_archive.md)
-In this segment, you will archive and license your project so others can use it.
 
 
 <!--
