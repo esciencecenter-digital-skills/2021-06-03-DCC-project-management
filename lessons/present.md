@@ -74,4 +74,4 @@ is your job to turn them into a shareable project.
       save your files as `README.md`.
 
 When you are done: zip the entire project, and email it to your partner. They
-will continue as the driver during [PAST](lessons/past.md).
+will continue as the driver during [PAST](past.md).
