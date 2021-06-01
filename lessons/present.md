@@ -61,7 +61,13 @@ is your job to turn them into a shareable project.
     * Is the data in a 'tidy' format, so future processing will be smooth?
     * Do all units match? Is it clear what they are?
     * Is the file format interoperable?
-1. Write README files:
-    * Start with a README for the project, in the root of the project.
+    * Where do you want to store this file in your folder structure?
+1. Write README files for your project:
+    * Start with a README for the entire project, in the root of the project folder.
     * Do you think it is necessary to create a README for the data? Why (not)? If
       yes: make one!
+    * You can write your files in plain text (use a text editor for this, not
+      Word) and save them in the `.txt` format. If you feel comfortable with
+      Markdown, you can use [Markdown
+      formatting](https://www.markdownguide.org/basic-syntax/) in your text and
+      save your files as `README.md`.
