@@ -14,7 +14,7 @@ Testing video embedding 2:
 
 Work in pairs ('pair programming' style):
 
-- the *driver* shares their screen and performs the actions);
+- the *driver* shares their screen and performs the actions;
 - the *partner* supports the driver, looks up questions, is active and engaged
     with the driver's work.
 
@@ -55,24 +55,24 @@ figure with the data you have cleaned up during the first session.
    `CHANGELOG.md`.
 1. Set up your changelog with a small introduction, for example (Markdown format):
 
-  ```
-  # Changelog
+    ```
+    # Changelog
 
-  All notable changes to this project will be documented in this file.
+    All notable changes to this project will be documented in this file.
 
-  The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-  and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
-  ```
+    The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+    and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+    ```
 
 1. Define the version of your project, using [semantic
    versioning](https://semver.org/spec/v2.0.0.html). Make a first entry in the
    changelog, entering your version number, and the date. Be sure to enter the
    date in the YEAR-MONTH-DAY format:
 
-  ```
-  ## [VERSION] - YEAR-MONTH-DAY
-  ### Added
-  ```
+     ```
+     ## [VERSION] - YEAR-MONTH-DAY
+     ### Added
+     ```
 
 1. Describe the current state of the project briefly in bullet points.
 1. Zip the entire project, and save it using the name of the project and the
