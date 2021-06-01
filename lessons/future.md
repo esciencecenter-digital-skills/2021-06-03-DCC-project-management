@@ -72,11 +72,12 @@ a zipped file from your partner. Unzip the files.
     * You can also edit it locally and upload the changelog to your repository.
 1. Connect your GitHub page to Zenodo.
     * [Log in to Zenodo's sandbox environment](https://sandbox.zenodo.org/login/?next=%2F)
-    * Why are we using a Sandbox? Hint: the Sandbox is non-permanent, and forgets its "archived" projects!
+    * Why are we using a Sandbox? Hint: the Sandbox is non-permanent, and
+      forgets its "archived" projects!
     * Click 'log in with GitHub' and authorize Zenodo to connect to your GitHub account.
     * On Zenodo's main page, click on the triangle next to your name, and choose
       'GitHub'. Find the repository you just created, and enable Zenodo's access
-      by switching it 'on'.
+      by toggling the switch to 'on'.
 1. Make a release from the GitHub main page:
     * Click 'create a new release'
     * Tag the release with the version number. Note that it is common practice
@@ -89,8 +90,8 @@ a zipped file from your partner. Unzip the files.
       the previous release and that one.
     * Click 'Publish release'.
 1. Return to the GitHub page in your Zenodo profile. Verify that the repository
-   is uploading. After some 5 minutes, you should be able to click through to
-   the sandbox page of your released project!
+   is uploading. After the release is complete (this can take a while!), you
+   should be able to click through to the sandbox page of your released project!
    * Under normal circumstances, you would get the DOI and place a badge in your
      GitHub README. Why should you not do this now you are working in the Zenodo
      sandbox?
