@@ -58,10 +58,10 @@ is your job to turn them into a shareable project.
    they contain.
 1. Create one overarching data file that contains all data from the raw files.
    Consider:
-  - Is the data in a 'tidy' format, so future processing will be easier?
-  - Do all units match? Is it clear what they are?
-  - Is the file format interoperable?
+    * Is the data in a 'tidy' format, so future processing will be smooth?
+    * Do all units match? Is it clear what they are?
+    * Is the file format interoperable?
 1. Write README files:
-  - Start with a README for the project, in the root of the project.
-  - Do you think it is necessary to create a README for the data? Why (not)? If
-    yes: make one!
+    * Start with a README for the project, in the root of the project.
+    * Do you think it is necessary to create a README for the data? Why (not)? If
+      yes: make one!
