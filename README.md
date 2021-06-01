@@ -24,6 +24,8 @@ See how you can prepare for this workshop [here](preparation.md).
 - Ask for help when needed
   - Raise your hand in the zoom breakout;
   - A helper will join your breakout room.
+- Write down questions to discuss with the group
+  - At the end of each workshop-element we will reconvene in a plenary session to discuss it.
 
 ### Schedule
 | Time  | Agenda item | Link |
