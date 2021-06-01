@@ -10,10 +10,26 @@ Then, we will track the project's history in **PAST**: you will make a changelog
 and create a 'project release' with a version number. Finally, in **FUTURE**,
 you will archive and license your project so others can use it.
 
+We will end the workshop with an informal sharing of our respective lessons from the past.
+
 ### Preparation
+
 See how you can prepare for this workshop [here](preparation.md).
 
+## Code of Conduct
+
+Participants are expected to follow these guidelines:
+- Use welcoming and inclusive language
+- Be respectful of different viewpoints and experiences
+- Gracefully accept constructive criticism
+- Focus on what is best for the community
+- Show courtesy and respect towards other community members
+- We do not tolerate any form of discrimination, intimidation or harassment.
+
+If you feel this has been violated, please contact training@esciencecenter.nl.
+
 ### Workflow
+
 - Work in pairs ('pair programming' style)
   - One driver (shares their screen and performs the actions);
   - One partner (supports the driver, looks up questions, is active and engaged with the driver's work).
@@ -21,7 +37,8 @@ See how you can prepare for this workshop [here](preparation.md).
   - The driver zips the entire project, and emails it to partner *before the break*.
   - The partner unzips all and confirms the project is complete.
 - Ask for help when needed
-  - Raise your hand in the zoom breakout;
+  - Use the "Ask for help" button in your breakout room
+  - Note that raised hands and chat messages will not be seen outside the room!
   - A helper will join your breakout room.
 - Write down questions to discuss with the group
   - At the end of each workshop-element we will reconvene in a plenary session to discuss it.
@@ -36,8 +53,10 @@ See how you can prepare for this workshop [here](preparation.md).
 | 14:15 | PAST: version control | [lessons/past.md](lessons/past.md) |
 | 15:00 | _Tea break_ | - |
 | 15:15 | FUTURE: publication & archiving | [lessons/future.md](lessons/future.md) |
-| 16:00 | Wrap up | Plenary |
+| 16:00 | Personal stories of challenges and struggles  | Breakout |
+| 16:25 | Wrap-up | Plenary |
 
 ### License
+
 This project is licensed under [Creative Commons Attributions 4.0](https://creativecommons.org/licenses/by/4.0/).
 
