@@ -51,7 +51,8 @@ field to collect data. They have taken your template, and filled out information
 about the nests they surveyed. These raw data inputs are your starting point. It
 is your job to turn them into a shareable project.
 
-1. Create a single folder in which the entire project will be contained.
+1. Create a single folder in which the entire project will be contained. Give it
+   a simple name (without spaces).
 1. Devise a project structure. What folders do you need, and how will you
    structure them?
 1. Place the data files in one of the folders. Rename them so it is clear what
@@ -71,3 +72,6 @@ is your job to turn them into a shareable project.
       Markdown, you can use [Markdown
       formatting](https://www.markdownguide.org/basic-syntax/) in your text and
       save your files as `README.md`.
+
+When you are done: zip the entire project, and email it to your partner. They
+will continue as the driver during [PAST](lessons/past.md).
