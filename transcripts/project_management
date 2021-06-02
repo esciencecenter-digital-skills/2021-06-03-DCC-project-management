@@ -1,5 +1,4 @@
-Project management
-
+# Project management
 
 
 In this video we will introduce some good habits in organization and
@@ -50,29 +49,72 @@ what information do you need to understand it fully? With almost everything we
 are going to show you, you yourself are the most likely the one to benefit from
 a good project structure, and good documentation. Keep this in mind.
 
-Other content you can put in a README is: an explanation of any abbreviations
-used, the expected files and folders in your project, and any references that
-are necessary.
+Other content you can put in a README, aside from a general overview of the
+project, is: an explanation of any abbreviations used, the expected files and
+folders in your project and their purpose, names of contributors and their
+roles, and any links or references to important sources.
 
 4. Use interoperable file types.
 
+Using Excel may be great for you now, with all its bells and whistles, but what
+if you leave your position and are no longer able to pay for the software. Can
+you still access your own data? What if someone who wants to reuse your project
+does not have access to Excel? And what happens to the file in 10 years? Would you
+feel confident that you can access and successfully read an Excel file from 10
+years ago?
+
+Instead, we recommend that you save data in a format that will work with Excel,
+but is not dependent on the software to be read. This format, .csv, takes the
+form of a table where items in different columns are separated by commas (or
+other characters). The data is stored in plain text, which allows it to be read
+by many different types of software, including a plain text editor. And,
+importantly, a .csv file will likely outlive you.
+
+For almost any proprietary file type there is an interoperable alternative.
+Instead of a word document, save your text as a txt file, or perhaps formatted
+using Markdown. Information is ideally stored as plain text, but an
+interoperable file format can be different. The important thing is that it can
+be used by diverse platforms and applications, and does not require paid
+software to be accessible.
 
 5. Use descriptive and logical file names.
 
 File names themselves can be important documentation. We are long past the time
 that file names need to be short, although there is obviously a limit. A file
-name first of all is a description of the file that can never be separated from
-that file. While you can move files around and thereby lose information on their
-source folder, or documentation such as a README in that folder, a filename is
-only altered explicitly. Secondly, file names will be important when you want to
-sort your files. Therefore, making sure that file names start with the most
-general descriptor of the file content can be relevant. When you are including a
-date in your file, and you probably should, start with the year then the month
-and then the day. This will make sure that when sorting your files you will sort
-them from early to late. It also prevents any confusion with date notation in
-different parts of the world. Further advice is to never use spaces in file
+name first of all is a description of the file that is tightly connected to that
+file. Files can move around, on purpose or by accident, and information like the
+folder name or an associated README can be lost. A filename is much more robust.
+
+Secondly, file names will be important when you want to sort your files.
+Therefore, make sure that file names start with the most general descriptor of
+the file content. For example, when you are including a date in your file (and
+you probably should) start with the year, then the month, and then the day. This
+will make sure that when you are sorting your files, you will sort them
+chronologically, and not all the October files with other October files, for
+example. It also prevents any confusion with date notation in different parts of
+the world.
+
+Further file name advice is to never use spaces in file
 names; instead, use dashes, underscores, or CamelCase to separate words.
 
 6. Make your data tidy.
 
+An important starting point for data analysis is to have clean data. But, data
+can not only be clean, it can also be tidy. Tidy data is defined as follows:
 
+* Each variable is a column and contains values
+* Each observation is a row
+* Each cell contains a single measurement
+
+It may be logical to collect observations like this: on each individual plant,
+you perform several measurements, and collect them in a single row. In this
+example, however, you will see that data, namely the kind of features you were
+measuring, are hiding as column names, and in every row, multiple observations
+are recorded. That same data can be put in a tidy format. No data is lost,
+though it looks different. The tidy format standardizes the structure of the
+data, making it more straightforward to interpret and to run analyses on.
+
+To summarize our tips: please save your project in a single folder, devise a
+logical system of sub-folders, introduce the project in a README, use
+interoperable file types, use descriptive and logical file names, and make your data
+tidy.
