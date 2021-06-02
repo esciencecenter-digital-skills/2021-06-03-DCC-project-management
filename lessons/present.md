@@ -75,3 +75,9 @@ is your job to turn them into a shareable project.
 
 When you are done: zip the entire project, and email it to your partner. They
 will continue as the driver during [PAST](past.md).
+
+
+## References and links
+
+- [Research Compendia in The Turing Way](https://the-turing-way.netlify.app/reproducible-research/compendia.html)
+- [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)

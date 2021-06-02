@@ -1,44 +1,78 @@
 Project management
 
+
+
+In this video we will introduce some good habits in organization and
+documentation of a research project. Organizing and documenting your project
+well is not technically difficult to do, especially if you do it from the
+beginning. But organization and documentation can make an enormous difference in
+making your project easier to work on: for yourself, reducing the chances that
+you will make mistakes along the way, and for those who want to understand and
+perhaps reuse your project.
+
+1. Save your project in a single folder.
+
 Start with your project in a single folder. Everything that relates to your
 project will be inside this folder. This will make your project portable and
-cohesive.
+cohesive; it will make it easy for someone else to make sense of it. This is a
+habit that applies with projects anywhere, but particularly in research projects
+it contributes to their reproducibility, which is of course a vital component of
+good science. The term 'research compendium' has been coined to refer to a
+container for different elements that make up the research presentation: the
+paper or report itself, but also the data and the code that is used to analyse
+the data and generate the results.
 
+2. Devise a logical system of sub-folders.
 
-Select a logical system of sub folders, looking at what is standard in the
+Make a logical system of sub folders, looking at what is standard in the
 field. There is no one-size-fits-all, but this can be a good structure for a
 research project. Having folders separate for data for documentation and four
 figures. Make sure you structure your sub folders in a logical way. Don’t be
-afraid to make sub sub and sub sub sub folders, so long it is as it is logical.
+afraid to make sub sub and sub sub sub folders, so long as it is logical.
 Especially when you were working with code or tools that generate content
-automatically, it is important to separate the content from content that you
-yourself are writing. It is also important to separate read only content from
-the rest. Raw data should never be meddled with.
+automatically, it is important to separate the content that is generated
+automatically from content that you yourself are writing. It is also important
+to separate read-only content from the rest. Raw data should never be meddled
+with!
 
 The base of your folder system, the main folder at the highest level of your
 project, is called the “root”. This is an important reference point of your
 project: it contains the main files that are required to understand the project,
 as well as the main sub folders.
 
-Especially on higher levels, it’s recommended that each folder contains a README
-file, that describes the content of that folder. There are certain things you
-can put in that README file. A good thing to start Waze with is always to ask
-yourself what if in one year time you see this folder again what information do
-you need to understand it fully. With almost everything we are going to show
-you, you yourself are the most likely want to benefit from a good project
-structure, and good documentation. Keep this in mind. Some more tips for content
-in the read me is, explanation of any abbreviations used, dates, expected files,
-any references that are necessary.
+3. Introduce the project (or sub-folder) in a README.
 
-File names themselves can be important documentation. We have a long past the
-time that file names needs to be short, although it is although there is
-obviously a limit. File names will be important when you want to sort your
-files. Therefore, making sure that file names start with The most general
-descriptor of the file content, can be relevant. It is furthermore advised never
-to use spaces or start your file name with a number, as this can interfere with
-your files being processed by certain programs. When you are including a date in
-your file, and you probably should, start with the year then the month and then
-the day. This will make sure that when sorting your files you will sort them
-from early to late. It also prevents any confusion with date notation in
-different parts of the world.
+Especially on higher levels, it’s recommended that each folder contains a
+description, or a README file, that describes the content of that folder. There
+are certain things you can put in that README file. A good thing to start with
+is always to ask yourself: what if, in one year time, you see this folder again,
+what information do you need to understand it fully? With almost everything we
+are going to show you, you yourself are the most likely the one to benefit from
+a good project structure, and good documentation. Keep this in mind.
+
+Other content you can put in a README is: an explanation of any abbreviations
+used, the expected files and folders in your project, and any references that
+are necessary.
+
+4. Use interoperable file types.
+
+
+5. Use descriptive and logical file names.
+
+File names themselves can be important documentation. We are long past the time
+that file names need to be short, although there is obviously a limit. A file
+name first of all is a description of the file that can never be separated from
+that file. While you can move files around and thereby lose information on their
+source folder, or documentation such as a README in that folder, a filename is
+only altered explicitly. Secondly, file names will be important when you want to
+sort your files. Therefore, making sure that file names start with the most
+general descriptor of the file content can be relevant. When you are including a
+date in your file, and you probably should, start with the year then the month
+and then the day. This will make sure that when sorting your files you will sort
+them from early to late. It also prevents any confusion with date notation in
+different parts of the world. Further advice is to never use spaces in file
+names; instead, use dashes, underscores, or CamelCase to separate words.
+
+6. Make your data tidy.
+
 
