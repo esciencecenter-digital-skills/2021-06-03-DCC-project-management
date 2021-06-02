@@ -12,28 +12,20 @@ Testing video embedding 2:
 
 ## Reminder: workflow
 
-Work in pairs ('pair programming' style):
-
-- the *driver* shares their screen and performs the actions;
-- the *partner* supports the driver, looks up questions, is active and engaged
-    with the driver's work.
-
-At the end of the exercise:
-
-- the driver zips the entire project, and emails it to partner before the break;
-- the partner unzips all and confirms the project is complete.
-
-Ask for help when needed:
-
-- raise your hand in the Zoom breakout;
-- a helper will join your breakout room.
-
-Prepare the discussion:
-
-- write down any questions you would like to discuss with the group;
-- discuss choices you make during the exercise, and write down your decisions;
-- at the end of each workshop-element we will reconvene in a plenary session to
-  discuss these.
+- Work in pairs (or groups of three); 'pair programming' style.
+  - One of you is the _driver_: they share their screen and perform the actions.
+  - The other(s) support(s) the driver, by e.g. looking up questions, and being
+    active and engaged with the driver's work.
+- Switch roles so that everyone in your team has been in the driver's seat:
+  - The driver zips the entire project, and emails it to a partner *before the
+    break*.
+  - The recipient unzips all and confirms the project is complete.
+  - Do not worry if you have not been able to finish the exercises. You can take
+    your project to the next step.
+- Ask for help when needed, we are happy to support you!
+  - Use the "Ask for help" button in your breakout room. (Note that raised hands
+    and chat messages will not be seen outside the room!)
+  - A helper will join your breakout room.
 
 ## Exercise
 
