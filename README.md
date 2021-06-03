@@ -59,8 +59,18 @@ training@esciencecenter.nl.
 | 14:15 | PAST: version control | [Video & exercise](lessons/past.md) |
 | 15:00 | _Tea break_ | - |
 | 15:15 | FUTURE: publication & archiving | [Video & exercise](lessons/future.md) |
-| 16:00 | Personal stories of challenges and struggles  | Breakout |
+| 16:00 | Personal stories of challenges and struggles  | Breakout, see questions below! |
 | 16:25 | Wrap-up | Plenary |
+
+### Discussion
+
+Answer these questions for yourself, and share your answers and experiences with
+the group:
+
+1. What is, for you, the main take-away from today's workshop?
+1. What experience in your past has taught you an important lesson about project
+   management?
+
 
 ### More from us!
 
