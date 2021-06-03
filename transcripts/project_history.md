@@ -20,7 +20,7 @@ the long run and it is absolutely worth the time investment.
 
 Let’s start with the basics though.
 
-1. Keep a changelog.
+## 1. Keep a changelog.
 
 A changelog is a dedicated file where you keep track of the history. This file
 lives in the root of the project. The changelog describes important changes you
@@ -34,7 +34,7 @@ Changed, for changes in existing functionality. Deprecated, for soon-to-be
 removed features. Removed, for now removed features. Fixed, for any bug fixes.
 Security, in case of vulnerabilities.
 
-2. Formalize updates using semantic versioning
+## 2. Formalize updates using semantic versioning
 
 When substantial changes have been made it can be useful to release a new
 version of the project. You may have seen version numbers associated to software

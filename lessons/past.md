@@ -2,13 +2,15 @@
 
 ## Video
 
-<!--
-Testing video embedding:
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/vgYS-F8opgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7GhMCBZG10s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Testing video embedding 2:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vgYS-F8opgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->
+_[View the transcript here](../transcripts/project_history.md)_
+
+## References and links
+
+- [Software Carpentry's Version Control with Git](https://swcarpentry.github.io/git-novice/)
+- [Keepachangelog.com](https://keepachangelog.com/en/1.0.0/)
+- [Semantic versioning](https://semver.org/spec/v2.0.0.html)
 
 ## Reminder: workflow
 
@@ -41,10 +43,10 @@ figure with the data you have cleaned up during the first session.
 
 1. Take a look at the changelog at the top of the page on
    [keepachangelog.com](https://keepachangelog.com/en/1.0.0/).
-1. Create a file in the root called `CHANGELOG.txt`. If you feel comfortable
-   with Markdown, please [use Markdown
-   formatting](https://www.markdownguide.org/basic-syntax/), and name your file
-   `CHANGELOG.md`.
+1. Create a file in the root called `CHANGELOG.txt`. Edit this file with a text
+   editor, like Notepad. If you feel comfortable with Markdown, please [use
+   Markdown formatting](https://www.markdownguide.org/basic-syntax/), and name
+   your file `CHANGELOG.md`.
 1. Set up your changelog with a small introduction, for example (Markdown format):
 
     ```
@@ -59,10 +61,10 @@ figure with the data you have cleaned up during the first session.
 1. Define the version of your project, using [semantic
    versioning](https://semver.org/spec/v2.0.0.html). Make a first entry in the
    changelog, entering your version number, and the date. Be sure to enter the
-   date in the YEAR-MONTH-DAY format:
+   date in the YYYY-MM-DD format:
 
      ```
-     ## [VERSION] - YEAR-MONTH-DAY
+     ## [VERSION] - YYYY-MM-DD
      ### Added
      ```
 
