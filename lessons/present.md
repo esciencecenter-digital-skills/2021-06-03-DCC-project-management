@@ -12,7 +12,7 @@ Testing video embedding 2:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tBGLRXUbCrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_[View the transcript here](../transcripts/project_management)_
+_[View the transcript here](../transcripts/project_management.md)_
 
 
 ## References and links
