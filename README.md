@@ -18,7 +18,7 @@ the past.
 
 See how you can prepare for this workshop [here](preparation.md).
 
-## Code of Conduct
+### Code of Conduct
 
 Participants are expected to follow these guidelines:
 
@@ -54,11 +54,11 @@ training@esciencecenter.nl.
 | Time  | Agenda item | Link |
 |:------|:------------|:-----|
 | 13:00 | Kickoff & introductions | Plenary |
-| 13:15 | PRESENT: organize your project | [lessons/present.md](lessons/present.md) |
+| 13:15 | PRESENT: organize your project | [Video & exercise](lessons/present.md) |
 | 14:00 | _Tea break_ | - |
-| 14:15 | PAST: version control | [lessons/past.md](lessons/past.md) |
+| 14:15 | PAST: version control | [Video & exercise](lessons/past.md) |
 | 15:00 | _Tea break_ | - |
-| 15:15 | FUTURE: publication & archiving | [lessons/future.md](lessons/future.md) |
+| 15:15 | FUTURE: publication & archiving | [Video & exercise](lessons/future.md) |
 | 16:00 | Personal stories of challenges and struggles  | Breakout |
 | 16:25 | Wrap-up | Plenary |
 
