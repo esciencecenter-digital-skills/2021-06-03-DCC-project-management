@@ -1,6 +1,5 @@
 # Project management
 
-
 In this video we will introduce some good habits in organization and
 documentation of a research project. Organizing and documenting your project
 well is not technically difficult to do, especially if you do it from the
@@ -9,7 +8,7 @@ making your project easier to work on: for yourself, reducing the chances that
 you will make mistakes along the way, and for those who want to understand and
 perhaps reuse your project.
 
-1. Save your project in a single folder.
+## 1. Save your project in a single folder.
 
 Start with your project in a single folder. Everything that relates to your
 project will be inside this folder. This will make your project portable and
@@ -21,7 +20,7 @@ container for different elements that make up the research presentation: the
 paper or report itself, but also the data and the code that is used to analyse
 the data and generate the results.
 
-2. Devise a logical system of sub-folders.
+## 2. Devise a logical system of sub-folders.
 
 Make a logical system of sub folders, looking at what is standard in the
 field. There is no one-size-fits-all, but this can be a good structure for a
@@ -39,7 +38,7 @@ project, is called the “root”. This is an important reference point of your
 project: it contains the main files that are required to understand the project,
 as well as the main sub folders.
 
-3. Introduce the project (or sub-folder) in a README.
+## 3. Introduce the project (or sub-folder) in a README.
 
 Especially on higher levels, it’s recommended that each folder contains a
 description, or a README file, that describes the content of that folder. There
@@ -54,7 +53,7 @@ project, is: an explanation of any abbreviations used, the expected files and
 folders in your project and their purpose, names of contributors and their
 roles, and any links or references to important sources.
 
-4. Use interoperable file types.
+## 4. Use interoperable file types.
 
 Using Excel may be great for you now, with all its bells and whistles, but what
 if you leave your position and are no longer able to pay for the software. Can
@@ -77,7 +76,7 @@ interoperable file format can be different. The important thing is that it can
 be used by diverse platforms and applications, and does not require paid
 software to be accessible.
 
-5. Use descriptive and logical file names.
+## 5. Use descriptive and logical file names.
 
 File names themselves can be important documentation. We are long past the time
 that file names need to be short, although there is obviously a limit. A file
@@ -111,7 +110,7 @@ chronologically, and not all the October files with other October files, for
 example. It also prevents any confusion with date notation in different parts of
 the world.
 
-6. Make your data tidy.
+## 6. Make your data tidy.
 
 An important starting point for data analysis is to have clean data. But, data
 can not only be clean, it can also be tidy. Tidy data is defined as follows:
@@ -128,7 +127,11 @@ are recorded. That same data can be put in a tidy format. No data is lost,
 though it looks different. The tidy format standardizes the structure of the
 data, making it more straightforward to interpret and to run analyses on.
 
-To summarize our tips: please save your project in a single folder, devise a
-logical system of sub-folders, introduce the project in a README, use
-interoperable file types, use descriptive and logical file names, and make your data
-tidy.
+## To summarize our tips:
+
+1. please save your project in a single folder
+1. devise a logical system of sub-folders
+1. introduce the project in a README
+1. use interoperable file types
+1. use descriptive and logical file names, and
+1. make your data tidy.
