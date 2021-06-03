@@ -25,7 +25,7 @@ the data and generate the results.
 
 Make a logical system of sub folders, looking at what is standard in the
 field. There is no one-size-fits-all, but this can be a good structure for a
-research project. Having folders separate for data for documentation and four
+research project. Having folders separate for data for documentation and for
 figures. Make sure you structure your sub folders in a logical way. Don’t be
 afraid to make sub sub and sub sub sub folders, so long as it is logical.
 Especially when you were working with code or tools that generate content
@@ -82,10 +82,27 @@ software to be accessible.
 File names themselves can be important documentation. We are long past the time
 that file names need to be short, although there is obviously a limit. A file
 name first of all is a description of the file that is tightly connected to that
-file. Files can move around, on purpose or by accident, and information like the
-folder name or an associated README can be lost. A filename is much more robust.
+file. Filenames can be used to find the right data quickly amidst a jumble of
+files, or they can be used to identify the content of a stray file.
 
-Secondly, file names will be important when you want to sort your files.
+Naming a file right is therefore important. There are three main considerations
+to make. File names should first of all be machine readable. This means using a
+latin alphabet, with consistent capitalization, and no spaces or strange
+characters. When a filename contains important information about the content of
+that file, it can be used to quickly retrieve that file inside your system. A
+filename does not need to be short, but words should never be separated by
+spaces. Instead use underscores (snake case), hyphens (kebab case), or
+consistent capitalization (camel case) to separate elements. Using hyphens or
+underscores has the added advantage that it is easy to separate elements
+automatically based on the patterns found in a name.
+
+Most importantly though, file names should be intelligible for humans. That
+means that they should contain information that identifies the content of that
+file for you, or ideally another person. Jenny Bryan, who gave an excellent
+lecture about this, gave this example to drive that point home: what filenames
+would you rather see at 3AM before a deadline?
+
+Finally, file names will be important when you want to sort your files.
 Therefore, make sure that file names start with the most general descriptor of
 the file content. For example, when you are including a date in your file (and
 you probably should) start with the year, then the month, and then the day. This
@@ -93,9 +110,6 @@ will make sure that when you are sorting your files, you will sort them
 chronologically, and not all the October files with other October files, for
 example. It also prevents any confusion with date notation in different parts of
 the world.
-
-Further file name advice is to never use spaces in file
-names; instead, use dashes, underscores, or CamelCase to separate words.
 
 6. Make your data tidy.
 
