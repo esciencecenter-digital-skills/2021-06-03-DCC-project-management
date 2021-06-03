@@ -1,4 +1,4 @@
-## Project history
+# Project history
 
 Keeping track of your project history is important in many situations. If at a
 later stage, you want to make sure that you understand the status quo at a
