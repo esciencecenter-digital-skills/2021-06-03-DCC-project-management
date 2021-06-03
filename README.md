@@ -1,6 +1,6 @@
-# Project management
+# Organising your data and software with a reproducible project workflow
 
-## Spring Training Days day 2
+## DCC Spring Training Days - day 2
 
 In this Spring Training workshop, we will take you through the life cycle of a
 project, teaching good habits along the way, and using familiar tools as much as
@@ -61,6 +61,14 @@ training@esciencecenter.nl.
 | 15:15 | FUTURE: publication & archiving | [Video & exercise](lessons/future.md) |
 | 16:00 | Personal stories of challenges and struggles  | Breakout |
 | 16:25 | Wrap-up | Plenary |
+
+### More from us!
+
+If you're interested in learning more digital skills for research, check out the
+eScience Center's upcoming training programme at
+[escience-academy.github.io](https://escience-academy.github.io/). If you have
+feedback, questions, compliments, or simply greetings for us? Write to
+training@esciencecenter.nl.
 
 ### License
 
