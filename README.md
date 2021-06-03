@@ -1,4 +1,4 @@
-# Organising your data and software with a reproducible project workflow
+# Organizing your data and software with a reproducible project workflow
 
 ## DCC Spring Training Days - day 2
 
