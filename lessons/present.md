@@ -2,18 +2,9 @@
 
 ## Video
 
-<!--
-Testing video embedding:
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/vgYS-F8opgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Testing video embedding 2:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vgYS-F8opgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tBGLRXUbCrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _[View the transcript here](../transcripts/project_management.md)_
-
 
 ## References and links
 
@@ -73,9 +64,9 @@ is your job to turn them into a shareable project.
     * Start with a README for the entire project, in the root of the project folder.
     * Do you think it is necessary to create a README for the data? Why (not)? If
       yes: make one!
-    * You can write your files in plain text (use a text editor for this, not
-      Word) and save them in the `.txt` format. If you feel comfortable with
-      Markdown, you can use [Markdown
+    * You can write your files in plain text (use a text editor, like Notepad,
+      for this, not Word) and save them in the `.txt` format. If you feel
+      comfortable with Markdown, you can use [Markdown
       formatting](https://www.markdownguide.org/basic-syntax/) in your text and
       save your files as `README.md`.
 
